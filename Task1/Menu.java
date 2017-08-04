@@ -1,32 +1,30 @@
-public class Menu {
-
-	public static void main(String [] args){
+// 20 point
+public static void main(String [] args){
  		
 		int dollar = 1;
-		switch(dollar){   // don't use break
-    
+		if( ){ // make change from here
+		switch(dollar){   // don't use break and don't repeat words (fish,rice,bread) and use ternary
+
 		}
+		}
+
     
 	}
   
 }
-
-
 /*
-
 dollar = 1
 -----------
-the Fish
+the fish
 
 dollar = 2
 ----------
-the fish
-And rice
+the rice
+And fish
 
-dollar = 3
+dollar >= 3 
 ----------
-the fish
+the bread
 And rice
-And bread
-
+And fish
 */
